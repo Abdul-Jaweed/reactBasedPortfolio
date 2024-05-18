@@ -44,15 +44,15 @@ function Hero() {
             </h1>
             <h2>AI Engineer</h2>
             <span>
-                <a href="https://twitter.com/" target='_blank'>
+                 <a href="https://x.com/Abdul_Jaweed_DS" target='_blank'>
                     <img src={twitterIcon} alt="Twitter Icon" />
                 </a>
 
-                <a href="https://github.com/" target='_blank'>
+                <a href="https://github.com/Abdul-Jaweed" target='_blank'>
                     <img src={githubIcon} alt="Github Icon" />
                 </a>
 
-                <a href="https://linkedin.com/" target='_blank'>
+                <a href="https://www.linkedin.com/in/abdul-jaweed-datascientist/" target='_blank'>
                     <img src={linkedinIcon} alt="LinkedIn Icon" />
                 </a>
             </span>
